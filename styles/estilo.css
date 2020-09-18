@@ -1,0 +1,226 @@
+.contenedor {
+    display: flex;
+        justify-content: space-between;
+        padding: 6px 30px;
+        width: 95%;
+    align-items: center;
+}
+.circulo {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: gold;
+        margin-right: 10px;
+    }
+.perfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    border-bottom: 1px solid #DFDFDF;
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+    }
+
+.linea
+{
+    border-bottom: 2px solid #FC176F;
+    width: 152px;
+    display: flex;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+}
+
+.titulo {
+    font-family:Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+}
+.caja1 {    
+width: 219px;
+height: 80px;
+background: #FEC8CB;
+border-radius: 5px;
+}
+.parra {
+font-family:Arial, Helvetica, sans-serif;
+color: #6B6B6B;
+margin: 0%;
+}
+.caja {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.caja2 {
+width: 219px;
+height: 80px;
+background: #B6FFFD;
+border-radius: 5px;
+}
+.caja3 {  
+width: 219px;
+height: 80px;
+background: #FCFFC7;
+border-radius: 5px;
+}
+.caja4 {
+width: 219px;
+height: 80px;
+background: #BCFFD8;
+border-radius: 5px;
+}
+h1.nomb1 {
+    margin: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #6B6B6B;
+}
+.seccion1{
+    padding: 0px 118px 30px 118px;
+}
+.org {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.seccion2 {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+   
+}
+.box {
+    width: 50%;
+    padding: 20px;
+}
+.content {
+    color: #A1ACB4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 32px 0px;
+}
+.content > p {
+    margin: 0% 32px;
+
+}
+.border {
+   
+width: 100%;
+height: 340px;
+    background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+border-radius: 5px;
+margin-bottom: 30px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tit {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px; 
+    color: black;
+    display: flex;
+}
+.lal > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px 30px;
+}
+.lal {
+    display: flex;
+}
+.t {
+    margin-left: 0% !important;
+}
+.border > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #A1ACB4;
+    text-align: center;
+}
+.bord {
+    width: 100%;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+    border-radius: 5px;
+    display: flex;
+    margin: 10px;
+    padding: 0 20px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.bord > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+}
+.txt > p {
+    margin: 2px;
+}
+.txt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 37px;
+}
+.spn {
+    color: #A1ACB4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+.pp {
+        max-width: 130px;
+        margin: 0;
+        line-height: 14px;
+}
+ .btn-primary {
+    width: 99.53px;
+    height: 27.1px;
+    font-size: 9px !important;
+    background-color: #FC176F !important;
+    box-shadow: 0px 4px 20px rgba(187, 98, 238, 0.38);
+    border-radius: 100px !important;
+    border-color: #FC176F !important;
+    padding: 0% !important;
+
+}
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.box--right > .content {
+    margin-top: 0%;
+}
